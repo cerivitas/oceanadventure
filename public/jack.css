@@ -1,0 +1,41 @@
+.header {
+  background: #ffffff url('https://cdn.gomix.com/a831026a-1dde-4ded-8066-8e798db9e47c%2Fheader.png')  no-repeat left top;  
+  min-height: 200px;
+  max-height: 200px;
+
+
+}
+.main {
+  background: #ffffff url('https://cdn.gomix.com/a831026a-1dde-4ded-8066-8e798db9e47c%2Fbody.png') repeat-y left top;  
+  min-height: 350px;
+  max-width: 1280px;
+  
+  padding: 100px;
+ 
+}
+.main p,li,figcaption,td {
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 2em;  
+  
+}
+td {
+  padding: 10px;
+  
+}
+.main h1,h2,h3 {
+  font-family: 'Permanent Marker', cursive;  
+  
+}
+.footer {
+  background: #ffffff url('https://cdn.gomix.com/a831026a-1dde-4ded-8066-8e798db9e47c%2Ffooter.png') no-repeat left top;  
+  min-height: 250px;
+  max-height: 250px;
+  padding: 60px;
+  max-width: 1400px;
+}
+.figure {
+  display:block;
+  margin-left: auto;  
+  margin-right: auto;  
+  width: 800px;
+}
